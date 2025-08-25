@@ -1,4 +1,4 @@
-PhP Programming
+#PhP Programming
 1.1. Giới thiệu
 Phần này sẽ cung cấp cái nhìn tổng quan về ngôn ngữ lập trình PHP. Bạn sẽ tìm hiểu về lịch sử của PHP, lý do nó được phát triển và vai trò quan trọng của nó trong việc tạo ra các trang web động. Khái niệm về một ngôn ngữ mã nguồn mở chạy trên máy chủ (server-side scripting language) sẽ được làm rõ, giải thích cách PHP xử lý yêu cầu của người dùng và tạo ra mã HTML trả về trình duyệt.
 
